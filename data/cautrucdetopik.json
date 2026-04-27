@@ -1,0 +1,60 @@
+{
+  "title": "Cấu trúc bài thi đọc TOPIK",
+  "structure": [
+    {
+      "questions": "1-4",
+      "task_type": "Câu liên quan đến ngữ pháp",
+      "max_time_minutes": 3
+    },
+    {
+      "questions": "5-8",
+      "task_type": "Chọn đáp án với poster quảng cáo",
+      "max_time_minutes": 3
+    },
+    {
+      "questions": "9-12",
+      "task_type": "Chọn đáp án đúng với đoạn văn",
+      "max_time_minutes": 5
+    },
+    {
+      "questions": "13-15",
+      "task_type": "Sắp xếp lại thứ tự câu văn",
+      "max_time_minutes": 4
+    },
+    {
+      "questions": "16-22",
+      "task_type": "Chọn đáp án đúng để điền vào chỗ trống trong đoạn văn",
+      "max_time_minutes": 10
+    },
+    {
+      "questions": "23-27",
+      "task_type": "Chọn đáp án phù hợp với phần gạch chân hoặc đáp án phù hợp với nội dung đoạn văn",
+      "max_time_minutes": 8
+    },
+    {
+      "questions": "28-31",
+      "task_type": "Chọn đáp án phù hợp để điền vào chỗ trống trong đoạn văn",
+      "max_time_minutes": 5
+    },
+    {
+      "questions": "32-38",
+      "task_type": "Chọn đáp án phù hợp với nội dung đoạn văn",
+      "max_time_minutes": 10
+    },
+    {
+      "questions": "39-43",
+      "task_type": "Chọn đáp án phù hợp với nội dung gạch chân hoặc đáp án phù hợp để điền vào đoạn văn",
+      "max_time_minutes": 8
+    },
+    {
+      "questions": "44-45",
+      "task_type": "Chọn đáp án phù hợp nhất với chủ đề của đoạn văn",
+      "max_time_minutes": 4
+    },
+    {
+      "questions": "46-50",
+      "task_type": "Chọn đáp án phù hợp để điền vào chỗ trống trong đoạn văn hoặc đáp án chính xác với mục đích của đoạn văn",
+      "max_time_minutes": 10
+    }
+  ]
+}
